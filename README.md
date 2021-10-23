@@ -2,8 +2,8 @@
 - 👀 I’m interested in wordpress
 - 📫 How to reach me +989121089680
 <UI>
-Install Apache Web server
-Install PHP
+- Install Apache Web server
+- Install PHP
 
 Install MySQL
 Install latest Wordpress
